@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ShapePolyApp", "ShapePolyApp\ShapePolyApp.pyproj", "{B5E678AA-4CD6-4C5A-BC18-8794DF7CA27C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5E678AA-4CD6-4C5A-BC18-8794DF7CA27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E678AA-4CD6-4C5A-BC18-8794DF7CA27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E672D409-21A9-4BD2-820E-CDE673A8962B}
+	EndGlobalSection
+EndGlobal

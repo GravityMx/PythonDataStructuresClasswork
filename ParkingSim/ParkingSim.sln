@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ParkingSim", "ParkingSim\ParkingSim.pyproj", "{A99936B8-96CA-4399-A91C-E8F57FE08D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A99936B8-96CA-4399-A91C-E8F57FE08D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A99936B8-96CA-4399-A91C-E8F57FE08D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DDCAEB5-9CFC-4AE4-A048-36B1DB916CCD}
+	EndGlobalSection
+EndGlobal
